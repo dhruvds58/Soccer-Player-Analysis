@@ -20,7 +20,7 @@ Welcome to my **Soccer Data Analysis** project! This repository dives deep into 
 ### **1. Age Distribution**
 The peak ages for soccer players are **27–32**, aligning with prime performance years.
 
-![Age Distribution](assets/age_distribution.png)
+![Age Distribution](Screenshots/Playerages.png)
 
 ---
 
@@ -28,21 +28,21 @@ The peak ages for soccer players are **27–32**, aligning with prime performanc
 - Average market value: **€1.6 million**
 - Players valued over **€100 million** are predominantly younger (around 22 years old), reflecting the growing emphasis on potential.
 
-![Market Value by Age](assets/market_value_by_age.png)
+![Market Value by Age](Screenshots/playeragesvalue.png)
 
 ---
 
 ### **3. Positional Trends**
 The distribution of player positions reveals that **goalkeepers** are the least represented, while **midfielders** dominate.
 
-![Player Positions](assets/player_positions.png)
+![Player Positions](Screenshots/positiondist.png)
 
 ---
 
 ### **4. Top Nations**
 European countries dominate the player pool, with **France** leading, followed by **England** and **Spain**.
 
-![Players by Country](assets/players_by_country.png)
+![Players by Country](Screenshots/countrydist.png)
 
 ---
 
@@ -50,7 +50,7 @@ European countries dominate the player pool, with **France** leading, followed b
 - **English Premier League** boasts the highest average player market value.
 - **La Liga** records the most yellow cards per game, reflecting stricter officiating.
 
-![League Analysis](assets/league_analysis.png)
+![League Analysis](Screenshots/marketvalbyleague.png)
 
 ---
 
@@ -58,7 +58,7 @@ European countries dominate the player pool, with **France** leading, followed b
 - **Manchester City** holds the highest squad market value.
 - **Chelsea** has the youngest squad among the most valuable clubs.
 
-![Club Market Value](assets/club_market_value.png)
+![Club Market Value](Screenshots/clubvalue.png)
 
 ---
 
@@ -69,7 +69,7 @@ European countries dominate the player pool, with **France** leading, followed b
 - Data cleaning, imputation, and visualization techniques were employed to derive insights.
 
 ### **Entity Relationship Diagram**
-![ER Diagram](assets/er_diagram.png)
+![ER Diagram](Screenshots/ERDiagram.png)
 - **Players** table linked to **Appearances** table (one-to-many relationship).
 
 ### **Data Cleaning Highlights**
